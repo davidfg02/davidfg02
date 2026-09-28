@@ -37,7 +37,7 @@ I've also worked with C, PHP, HTML and CSS, and I'm continuing to strengthen my 
 
 ### 📱 Frameworks & Development
 
-[![My Skills](https://skillicons.dev/icons?i=spring,angular,flutter,sklearn&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,angular,nodejs,flutter,sklearn,bootstrap,&theme=dark)](https://skillicons.dev)
 
 
 I'm currently expanding my knowledge of application development, particularly around:
