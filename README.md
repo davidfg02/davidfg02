@@ -25,7 +25,7 @@ My main interests currently revolve around **software development, mobile applic
 ## 🛠️ Technologies & Tools
 
 ### 💻 Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=java,c,python,php,html,css,js,kotlin,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,python,php,html,css,js,kotlin,mysql,r&theme=dark)](https://skillicons.dev)
 
 I'm currently working with and learning a range of programming languages through academic and personal projects.
 
@@ -90,3 +90,11 @@ I'm increasingly focused on using Git and GitHub professionally, including:
 - Project management
 
 ---
+
+### ☁️ Platforms & Services
+
+[![My Skills](https://skillicons.dev/icons?i=vercel,supabase&theme=dark)](https://skillicons.dev)
+
+
+I've also worked with cloud-based platforms and development services that help
+turn applications into complete, deployable products.
