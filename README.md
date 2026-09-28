@@ -1,10 +1,10 @@
 # 👋 Hi, I'm David
 
-### 💻 Software Developer in Progress · 2º DAM Student · Builder
+### 💻 Full Stack Developer in Progress · 2º DAM Student
 
 Welcome to my GitHub profile!
 
-I'm a Software Development student currently studying **Higher Degree in Multiplatform Application Development (DAM)** in Madrid, Spain. I'm interested in building useful, scalable and well-structured software, while continuously learning new technologies and improving my development skills.
+I'm a Full Stack Developer student currently studying **Higher Degree in Multiplatform Application Development (DAM)** in Madrid, Spain. I'm interested in building useful, scalable and well-structured software, while continuously learning new technologies and improving my development skills.
 
 I enjoy turning ideas into real projects — from small applications created to learn a specific technology to larger personal projects that combine software, hardware and different technologies.
 
