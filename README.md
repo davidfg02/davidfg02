@@ -1,6 +1,7 @@
 # 👋 Hi, I'm David
 
 ### 💻 Full Stack Developer in Progress · 2º DAM Student
+![https://github.com/davidfg02](./banner.png)
 
 Welcome to my GitHub profile!
 
